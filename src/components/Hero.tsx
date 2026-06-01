@@ -26,7 +26,7 @@ const Hero = () => {
           Introducing KYRO Your AML AI Agent: Your dedicated partner in operational excellence.
         </h1>
         <a
-          href="https://kyro.stradit.com"
+          href="https://kyro.stradit.com/dashboard"
           target="_blank"
           rel="noopener noreferrer"
           style={{
